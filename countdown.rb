@@ -5,5 +5,5 @@ while integer_argument > 0
   integer_argument -= 1
 end
   puts "HAPPY NEW YEAR!"
-end
+
 end
