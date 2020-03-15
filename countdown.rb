@@ -6,8 +6,5 @@ def countdown(integer_argument)
     integer_argument -= 1
   end
 
-  if integer_argument == 0
-    puts "HAPPY NEW YEAR!"
-  end
-
+  return "HAPPY NEW YEAR!"
 end
