@@ -6,7 +6,7 @@ def countdown(integer_argument)
     integer_argument -= 1
   end
 
-  while integer_argument === 0
+  while integer_argument == 0
     puts "HAPPY NEW YEAR!"
   end
 
